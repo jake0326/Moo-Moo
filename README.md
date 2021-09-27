@@ -1,2 +1,2 @@
-# Organized Repository
-This repository is organized where everything can go
+# Moo Moo
+A website about cows
